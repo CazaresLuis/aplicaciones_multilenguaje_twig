@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: apps_multilenguaje_twig\n"
+"POT-Creation-Date: 2013-08-10 22:30-0600\n"
+"PO-Revision-Date: 2013-08-10 22:30-0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: Spanish\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: /Users/CazaresLuis/Dropbox/webServerCazares/"
+"devCazares/tutoriales2013/aplicaciones_multilenguaje_twig\n"
+
+#: /Users/CazaresLuis/Dropbox/webServerCazares/devCazares/tutoriales2013/aplicaciones_multilenguaje_twig/locale/textos/text_layout.php:12
+msgid "Multilingual Web Applications with twig and php"
+msgstr "Aplicaciones Web Multilenguaje con twig y php"
+
+#: /Users/CazaresLuis/Dropbox/webServerCazares/devCazares/tutoriales2013/aplicaciones_multilenguaje_twig/locale/textos/text_layout.php:13
+msgid "Luis Fernando Cázares Bulbarela"
+msgstr "Luis Fernando Cázares Bulbarela"
+
+#: /Users/CazaresLuis/Dropbox/webServerCazares/devCazares/tutoriales2013/aplicaciones_multilenguaje_twig/locale/textos/text_layout.php:14
+msgid "Internationalizing web projects"
+msgstr "Internacionalización de proyectos Web"
+
+#: /Users/CazaresLuis/Dropbox/webServerCazares/devCazares/tutoriales2013/aplicaciones_multilenguaje_twig/locale/textos/text_layout.php:15
+msgid "Home"
+msgstr "Inicio"
+
+#: /Users/CazaresLuis/Dropbox/webServerCazares/devCazares/tutoriales2013/aplicaciones_multilenguaje_twig/locale/textos/text_layout.php:16
+msgid "About"
+msgstr "Acerca de"
+
+#: /Users/CazaresLuis/Dropbox/webServerCazares/devCazares/tutoriales2013/aplicaciones_multilenguaje_twig/locale/textos/text_layout.php:17
+msgid "Contact"
+msgstr "Contacto"
+
+#: /Users/CazaresLuis/Dropbox/webServerCazares/devCazares/tutoriales2013/aplicaciones_multilenguaje_twig/locale/textos/text_layout.php:18
+msgid "Hello World!!"
+msgstr "Hola Mundo"
+
+#: /Users/CazaresLuis/Dropbox/webServerCazares/devCazares/tutoriales2013/aplicaciones_multilenguaje_twig/locale/textos/text_layout.php:19
+msgid ""
+"This is a template for a simple marketing or informational website. It "
+"includes a large callout called the hero unit and three supporting pieces of "
+"content. Use it as a starting point to create something more unique."
+msgstr ""
+"Esta es una plantilla para marketing simple o sitio web informativo. Incluye "
+"una gran leyenda llamada la unidad de héroe y tres piezas de soporte de "
+"contenido. Lo utilizan como un punto de partida para crear algo más único."
+
+#: /Users/CazaresLuis/Dropbox/webServerCazares/devCazares/tutoriales2013/aplicaciones_multilenguaje_twig/locale/textos/text_layout.php:20
+msgid "Heading"
+msgstr "Título"
+
+#: /Users/CazaresLuis/Dropbox/webServerCazares/devCazares/tutoriales2013/aplicaciones_multilenguaje_twig/locale/textos/text_layout.php:21
+msgid ""
+"This stands for World Wide Web. A technical definition of the World Wide Web "
+"is : all the resources and users on the Internet that are using the "
+"Hypertext Transfer Protocol (HTTP)."
+msgstr ""
+"Esto significa World Wide Web. Una definición técnica de la World Wide Web "
+"es: todos los recursos y los usuarios de Internet que utilizan el protocolo "
+"de transferencia de hipertenso (HTTP)."
+
+#: /Users/CazaresLuis/Dropbox/webServerCazares/devCazares/tutoriales2013/aplicaciones_multilenguaje_twig/locale/textos/text_layout.php:22
+msgid ""
+"A broader definition comes from the organization that Web inventor Tim "
+"Berners-Lee helped found, the World Wide Web Consortium (W3C):"
+msgstr ""
+"Una definición más amplia proviene de la organización que inventor de la Web "
+"Tim Berners-Lee ayudó a fundar, el Consorcio World Wide Web (W3C):"
+
+#: /Users/CazaresLuis/Dropbox/webServerCazares/devCazares/tutoriales2013/aplicaciones_multilenguaje_twig/locale/textos/text_layout.php:23
+msgid ""
+"The World Wide Web is the universe of network-accessible information, an "
+"embodiment of human knowledge."
+msgstr ""
+"La World Wide Web es el universo de información accesible desde la red, una "
+"forma de la ciencia humana."
+
+#: /Users/CazaresLuis/Dropbox/webServerCazares/devCazares/tutoriales2013/aplicaciones_multilenguaje_twig/locale/textos/text_layout.php:24
+msgid "Learn more"
+msgstr "Leer mas"
+
+#: /Users/CazaresLuis/Dropbox/webServerCazares/devCazares/tutoriales2013/aplicaciones_multilenguaje_twig/locale/textos/text_layout.php:25
+msgid "View details"
+msgstr "Ver detalles"
+
+#: /Users/CazaresLuis/Dropbox/webServerCazares/devCazares/tutoriales2013/aplicaciones_multilenguaje_twig/locale/textos/text_layout.php:26
+msgid "Tutorials cazaresluis.com | 2013"
+msgstr "Tutoriales cazaresluis.com | 2013"
